@@ -1,0 +1,8 @@
+.red {
+    color: red;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+}

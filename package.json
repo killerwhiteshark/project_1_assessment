@@ -1,0 +1,14 @@
+{
+  "name": "project_1_assessment",
+  "version": "1.0.0",
+  "description": "Counter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "counter"
+  ],
+  "author": "Tanner J Priest",
+  "license": "ISC"
+}
