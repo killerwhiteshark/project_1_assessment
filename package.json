@@ -4,11 +4,16 @@
   "description": "Counter",
   "main": "index.js",
   "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "counter"
   ],
   "author": "Tanner J Priest",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "cssnano": "^4.1.10"
+  }
 }

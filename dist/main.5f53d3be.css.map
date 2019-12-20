@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.css"],"names":[],"mappings":"AAAA,KACI,SACJ,CAEA,KACI,YAAa,CACb,sBACJ","file":"main.5f53d3be.css","sourceRoot":"..","sourcesContent":[".red {\n    color: red;\n}\n\n.box {\n    display: flex;\n    justify-content: center;\n}"]}
