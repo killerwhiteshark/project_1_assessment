@@ -6,3 +6,16 @@
     display: flex;
     justify-content: center;
 }
+
+input{
+    text-align: center;
+}
+button {
+    background-color: aqua;
+    color: black;
+    outline: none;
+}
+button:hover {
+    background-color: black;
+    color: aqua;
+}

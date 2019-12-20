@@ -2,6 +2,7 @@ const plus = document.getElementById('plus');
 const sub = document.getElementById('sub');
 const num = document.querySelector('input');
 const displayNumber = document.querySelector('h1');
+num.value = 1;
 
 let counter = 0;
 
